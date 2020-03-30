@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ressources/bar.jpg</file>
+        <file>ressources/dollard.png</file>
+        <file>ressources/brasserie.jpg</file>
+        <file>ressources/coonten.png</file>
+        <file>menu/gameLoader.qml</file>
+        <file>menu/gameMenu.qml</file>
+        <file>menu/mainGame.qml</file>
+        <file>fas/mainFAS.qml</file>
+        <file>fas/Glass.qml</file>
+        <file>fas/Tap.qml</file>
+        <file>fas/Liquid.qml</file>
+        <file>ressources/robinet.png</file>
+        <file>fas/Order.qml</file>
+        <file>fas/Head.qml</file>
+        <file>ressources/wood-texture.jpg</file>
+        <file>ressources/beer-texture.jpg</file>
+        <file>ressources/foam-texture.png</file>
+        <file>ressources/beer-amber-texture.jpg</file>
+        <file>ressources/beer-stout-texture.png</file>
+        <file>ressources/beer-white-texture.png</file>
+        <file>ressources/background.mp3</file>
+        <file>ressources/bad.mp3</file>
+        <file>ressources/good.mp3</file>
+        <file>notebook/Button_editor.qml</file>
+        <file>notebook/Detail_editor.qml</file>
+        <file>notebook/Detail_home.qml</file>
+        <file>notebook/mainNotebook.qml</file>
+        <file>notebook/Master.qml</file>
+        <file>game/beerForm.qml</file>
+        <file>game/gameGui.qml</file>
+    </qresource>
+</RCC>
