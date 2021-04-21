@@ -1,4 +1,4 @@
-# Projet-Beer-Bar-Manager
+# Beer Bar Management
 ### EN
 
 This is a second year project of my two-year university degree in computer science. The purpose was to introdruce us to the creation of a project from conception to developpement, with the stages of documentation and maintenance.
