@@ -13,4 +13,4 @@ Ce projet de 2éme année de DUT Informatique avait pour but de découvrir la cr
 
 Le sujet et le langage étaient au choix, nous avions choisis le C++ avec la bibliothèque Qt.   
 
-Ce projet a été réaliser en groupe de 5. Je voudrais d’ailleurs remercier Alban Thibaud et Florent Chapelais pour avoir choisis et inventé le sujet, mais aussi Antoni Di Lella et Loïc Courbon pour avoir participé avec moi sur ce projet
+Ce projet a été réalisé en groupe de 5. Je voudrais d’ailleurs remercier Alban Thibaud et Florent Chapelais pour avoir choisis et inventé le sujet, mais aussi Antoni Di Lella et Loïc Courbon pour avoir participé avec moi sur ce projet
